@@ -1,0 +1,77 @@
+.faq {
+    display: block;
+    justify-content: space-between;
+    margin: 30px;
+}
+.faq h3 {
+    background: blue;
+    color:white;
+    width: 33.3%;
+    height: 40px;
+    text-align: center;
+    padding: 10px;
+    cursor: pointer;
+    margin: 5px;
+}
+
+.payments {
+    display: block;
+    width: 100%;
+    margin: 15px;
+}
+.bank {
+    background: rgb(43, 43, 211);
+    width: 48%;
+}
+.bank img {
+    width: 30%;
+    padding: 10px;
+}
+.remitta {
+    background: rgb(28, 40, 104);
+    width: 48%;
+}
+.remitta img {
+    width: 30%;
+    padding: 10px;
+    height: 30%;
+}
+
+
+.transaction {
+    display: flex;
+}
+
+.info {
+    display: block;
+    justify-content: space-between;
+    justify-content: space-around;
+    margin:20px;
+}
+.info .summary {
+    width: 30%;
+    padding: 10px;
+}
+
+
+.support {
+    display: block;
+    justify-content: space-between;
+    justify-content: space-around;
+    margin: 10px;
+    width: 100%;
+}
+.notifications {
+    background: linear-gradient(to right, rgb(10, 10, 147), black);
+    padding: 10px;;
+    width: 25%;
+}
+
+
+.gallery {
+    display: block;
+    justify-content: space-between;
+    justify-content: space-around;
+    margin: 20px;
+    
+}
